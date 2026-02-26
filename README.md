@@ -1,5 +1,8 @@
 # Modern-Revolutions-Skies
-Modern Revolutions, but the skyblock development page. Feel free to play any version; make sure to import with CurseForge.
+Modern Revolutions, but the skyblock development page. Feel free to play any version;
 
 # Currently in Works
-Porting and changing the recipes from the current release, Modern Revolutions
+A few more things left
+
+# Reports
+If you are having issues, or there is a recipe issue or needs a nerf, this is the issue page.
